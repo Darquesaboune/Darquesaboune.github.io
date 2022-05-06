@@ -1,5 +1,7 @@
 body {
-    background-image: url("img/bg.jpg");
+    background-image: url("img/background.png");
+    backdrop-filter: blur(12px);
+    height: 100vh;
 }
 
 ul {
