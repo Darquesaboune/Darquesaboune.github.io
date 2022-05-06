@@ -1,0 +1,39 @@
+body {
+    background-image: url("img/bg.jpg");
+}
+
+ul {
+    padding-left: 0% !important;
+    list-style: none;
+}
+
+#banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lumiebre {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#psyduck {
+    -webkit-transform: rotate(35deg);
+    -moz-transform: rotate(35deg);
+    -o-transform: rotate(35deg);
+    -ms-transform: rotate(35deg);
+    transform: rotate(35deg);
+    width: 60%;
+}
+
+#chucha {
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    -ms-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+    width: 70%;
+}
